@@ -1,0 +1,170 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900);
+
+  html {
+	width: 100%;
+	height: 100%;
+}
+
+p.sanserif {
+	font-family: 'Roboto', sans-serif;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 100%;
+	font-style: normal;
+	font-weight: 400;
+	letter-spacing: normal;
+	line-height: 20px;
+	text-transform: none;
+	color: black;
+	}
+
+p {
+		font-family: 'Roboto', sans-serif;
+		font-size: 1em;
+	}
+
+.pros {
+		font-family: 'Roboto', sans-serif;
+		font-size: 0.9em;
+	}
+
+.header-1 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 100;
+	letter-spacing: normal;
+	line-height: 60px;
+	text-transform: none;
+	color: #000000;
+	}
+
+.header-2 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 100;
+	letter-spacing: normal;
+	line-height: 40px;
+	text-transform: none;
+	color: #000000;
+	}
+
+.header-3 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 100;
+	letter-spacing: normal;
+	line-height: 30px;
+	text-transform: none;
+	color: #000000;
+	}
+
+.pmax {
+	font-family: 'Open sans', sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 500;
+	letter-spacing: normal;
+	line-height: 30px;
+	text-transform: none;
+	}
+	
+.pmax2 {
+	font-family: 'Open sans', sans-serif;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 500;
+	letter-spacing: normal;
+	line-height: 30px;
+	text-transform: none;
+	margin-top: 1rem;
+	}
+
+header
+{
+	display: inline-block;
+	width: 100%;
+	min-height: 200px;
+	overflow: auto;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+.txt_titre {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 180%;
+    letter-spacing: 1px;
+    margin-bottom: 2%;
+    background-color: #E98237;
+    line-height: 1.5em;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+	}
+
+
+/*FAQ*/
+.faqHeader {
+	font-size: 1.6em;
+	font-family: 'Roboto', sans-serif;
+	margin: 10px;
+}
+
+.video {
+	display: inline-block;
+	text-align: center;
+	min-width: 60%;
+	max-width: 320px;
+	min-height: 180px;
+	overflow: auto;
+	vertical-align: top;
+	margin: 60px 20px 20px 0;
+	padding: 0;
+}
+
+	#myImg {
+		border-radius: 8px;
+		cursor: pointer;
+		transition: 0.3s;
+	}
+
+	#myImg:hover {
+		opacity: 0.7s;
+	}
+
+	.titre
+	{
+		color: #CE4B06;
+		font-size: 1.5em;
+		font-weight: bold;
+	}
+		
+	.categorie {
+		color:grey;
+	}
+
+	#news {
+		padding-top: 70px;
+	}
+
+.footer-areve {
+	background-color: #046380;
+	color: #ffffff;
+	margin-top: 30px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	}
+
+.footer-areve p {
+	color:#ffffff;
+}
+
+.footer-areve h4 a {
+	color:#EFECCA;
+	font-weight: 500;
+}
